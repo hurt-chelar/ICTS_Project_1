@@ -1,0 +1,4 @@
+#Thu Oct 06 19:35:55 IST 2022
+base.0=D\:\\Flutter-ML-Project\\Installations\\Trial\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
